@@ -1,0 +1,8 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño 
+de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Arrays
+Un array es como una caja de recuerdos en donde puedes guardar cualquier cosa que quieras, y ahi va a quedar guardado para siempre,
+si quieres recordar que tenias dentro de ella solo tienes que abrirla y ver cada una de las cosas que guardaste, dentro de esa caja tambien puedes
+guardar otra caja con otras cosas diferentes que tambien quieras recordar despues, hasta crear una coleccion de recuerdos que puedes ir a ver cuando
+quieras o puedes sacar algo de ahi cuando quieras.
